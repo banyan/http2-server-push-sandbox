@@ -1,0 +1,24 @@
+{
+  "hosting": {
+    "headers": [
+      {
+        "source": "/index.html",
+        "headers": [
+          {
+            "key": "Link",
+            "value": "</jquery.js>;rel=preload;as=script"
+          }
+        ]
+      },
+      {
+        "source": "/index3.html",
+        "headers": [
+          {
+            "key": "Link",
+            "value": "</jquery.js>;rel=preload;as=script;nopush"
+          }
+        ]
+      }
+    ]
+  }
+}
