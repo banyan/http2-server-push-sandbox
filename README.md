@@ -2,11 +2,11 @@
 
 with [Firebase Hosting](https://firebase.googleblog.com/2016/09/http2-comes-to-firebase-hosting.html).
 
-### index.html / jquery is pushed from the server
+### index.html / jquery is linked from the server
 
 ![](https://gyazo.com/46348319f59193c07fecbadff3a36d7e.png)
 
-### index2.html / jquery is linked from this file
+### index2.html / jquery is pushed from this file
 
 ![](https://gyazo.com/d5d035031974f6e2e38ce38c3b5cd2a6.png)
 
